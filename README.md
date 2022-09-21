@@ -58,6 +58,9 @@ It an example of user registration, login and private routes with backend restAP
 #### User Profile
 `You just need to pass JWT Token in hearders`
 
+```http
+  GET /auth/profile
+```
 
 | Parameter   | Type     | Description                       |
 | :--------   | :------- | :-------------------------------- |
